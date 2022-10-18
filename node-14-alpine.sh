@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-TAG_NAME=v1.0.0
+TAG_NAME=v1.0.1
 
 echo -e "===> Get Files"
 wget "https://raw.githubusercontent.com/gads-citron/poppler-compiled/$TAG_NAME/files/node-14-alpine/pdftotext"
